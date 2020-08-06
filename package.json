@@ -1,8 +1,0 @@
-{
-  "name": "todo-app",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/mcneiljv/todo-app.git",
-  "author": "Jamie McNeil <42184621+mcneiljv@users.noreply.github.com>",
-  "license": "MIT"
-}
